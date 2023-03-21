@@ -1,0 +1,15 @@
+Description: Analysis of different types of jobs in the field of Data Science 
+from the year 2020 to the year 2022, categorized by Salary, Remote Ratio, 
+Location, Experience Level, and company size.
+
+Attributes:
+
+Job Title
+Work Year
+Location
+Salary
+Remote Ratio
+Experience Level
+No. of employees
+No. of companies
+Company Size
